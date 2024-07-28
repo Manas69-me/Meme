@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+#photo{
+    border: 5px solid gold;
+    align-self: auto;
+    margin-left: 300px;
+}
+h2{
+    font-family :'Times New Roman', Times, serif;
+    text-align: center;
+    color:yellow;
+    text-transform: uppercase;
+    font-size: 2rem;
+    margin-left: 10px;
+    margin-right: 10px
+}
+p{
+    color: rgb(165, 184, 113);
+    text-align:center;
+}
